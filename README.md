@@ -14,4 +14,4 @@ This is a REST API for managing a Point of Sale (POS) platform, designed to mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Runa97/posAPi.git
